@@ -3,7 +3,7 @@
 #### Oppgaver
 1. https://www.codewars.com/kata/beginner-lost-without-a-map
     - Ekstraoppgave: https://www.codewars.com/kata/caesar-cipher-encryption-variation 
-1. https://www.codewars.com/kata/removing-elements
+1. https://www.codewars.com/kata/525d9b1a037b7a9da7000905
 1. https://www.codewars.com/kata/sum-of-positive
     - Ekstraoppgave: https://www.codewars.com/kata/directions-reduction
 1. https://www.codewars.com/kata/decode-the-morse-code
